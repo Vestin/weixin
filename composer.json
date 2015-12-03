@@ -1,0 +1,20 @@
+{
+    "name": "vestin/weixin",
+    "type": "library",
+    "description": "weixin",
+    "keywords": ["weixin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "weixin"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Weixin\\": "src/"
+        }
+    },
+}
