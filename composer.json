@@ -1,12 +1,10 @@
 {
     "name": "vestin/weixin",
-    "type": "library",
     "description": "weixin",
-    "keywords": ["weixin"],
     "license": "MIT",
     "authors": [
         {
-            "name": "weixin"
+            "name": "Vestin"
         }
     ],
     "require": {
