@@ -1,14 +1,19 @@
 {
     "name": "vestin/weixin",
-    "description": "weixin",
+    "type": "library",
+    "description": "weixin libray",
+    "keywords": [
+    ],
+    "homepage": "https://github.com/Vestin/weixin",
     "license": "MIT",
     "authors": [
         {
-            "name": "Vestin"
+            "name": "Vestin",
+            "email": "Vestinzds@gmail.com"
         }
     ],
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=5.3.3",
     },
     "autoload": {
         "psr-4": {
